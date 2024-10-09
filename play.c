@@ -1,7 +1,7 @@
 /**
  * @file play.c
  *
- * @author David Matlack
+ * @author husniyah loves boba
  */
 #include "chip8.h"
 
